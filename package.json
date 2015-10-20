@@ -1,0 +1,21 @@
+{
+  "name": "cookbooksvc",
+  "description": "A simple cookbook REST service",
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": "true",
+  "main": "index.js",
+  "author": "Andre Francois andre.francois@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoisa/cookbooksvc"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.0.46",
+    "object.assign": "^4.0.1"
+  }
+}
